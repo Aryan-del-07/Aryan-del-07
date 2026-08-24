@@ -1,31 +1,28 @@
 # Hey there 👋
 
-I'm Aryan.
+I'm **Aryan** a Computer Science Engineering student who enjoys building things and turning interesting ideas into working projects.
 
-I like building random things that pop into my head — especially the ones that make me go **"wait... can I actually build this?"**
+I especially like those moments when an idea makes me think:
 
-Sometimes it's a useful project.
+> **"Wait... can I actually build this?"**
+
+Sometimes it's useful.
 Sometimes it's completely unnecessary.
-Either way, I'm probably going to build it. 😄
+Either way, I'm probably going to build it.
 
-Currently exploring **Cloud, DevOps, Full-Stack Development & AI.**
+Currently exploring **Cloud · DevOps · Full-Stack Development · AI**
 
-I learn by building things, breaking them, Googling why they broke, and then pretending I knew how to fix them all along.
+### What I'm working with
 
-### Currently playing with
+`AWS` `GCP` `Docker` `TypeScript` `React` `Node.js` `Linux`
 
-☁️ Cloud & DevOps
-🐳 Docker
-🤖 AI
-💻 Full-Stack Development
-🐧 Linux
-
-### Some things I've built
+### A few things I've built
 
 🎓 **Studzens** — College discovery platform
 🤖 **Lumina AI** — AI-powered book marketplace
 ☁️ **E-Commerce on AWS** — Cloud deployment project
 🪖 **Smart Helmet** — Award-winning IoT project
 
-If you found your way here, feel free to look around.
+I learn by **building, breaking, and figuring things out along the way.**
+
 Most things here are the result of **curiosity + questionable amounts of time.**
