@@ -3,8 +3,7 @@
 I'm **Aryan** a Computer Science Engineering student who enjoys building things and turning interesting ideas into working projects.
 
 I especially like those moments when an idea makes me think:
-
-> **"Wait... can I actually build this?"**
+ **"Wait... can I actually build this?"**
 
 Sometimes it's useful.
 Sometimes it's completely unnecessary.
