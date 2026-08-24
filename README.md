@@ -13,8 +13,11 @@ My main stack is **AWS, GCP, Docker, TypeScript, React, Node.js, and Linux**.
 Things I've built:
 
 → **Studzens** — College discovery platform
+
 → **Lumina AI** — AI-powered book marketplace
+
 → **E-Commerce on AWS** — Cloud deployment project
+
 → **Smart Helmet** — Award-winning IoT project
 
 I learn by building, breaking things, figuring out why they broke, and trying again.
