@@ -1,25 +1,29 @@
 Hey there! 👋
 
-I'm **Aryan**, a Computer Science Engineering student from India.
+I'm **Aryan**, a Computer Science Engineering student from India who
+loves building things and turning random ideas into something real.
 
-I like building things and turning random ideas into something real.
+If an idea pops into my head and I find myself thinking,
+*"Wait... can I actually build this?"* — there's a pretty good chance
+I'll end up trying.
 
-If an idea pops into my head and I think *"wait... can I actually build this?"*, there's a good chance I'll end up trying.
+I mainly work across **Cloud, Full-Stack Development, DevOps, and AI**.
 
-I mostly work with **Cloud, Full-Stack Development, DevOps, and AI**.
+My main stack includes **AWS, GCP, Docker, TypeScript, React,
+Node.js, and Linux**.
 
-My main stack is **AWS, GCP, Docker, TypeScript, React, Node.js, and Linux**.
+### Things I've Built
 
-Things I've built:
+→ **Studzens** — A college discovery platform
 
-→ **Studzens** — College discovery platform
+→ **Lumina AI** — An AI-powered book marketplace
 
-→ **Lumina AI** — AI-powered book marketplace
+→ **E-Commerce on AWS** — A cloud deployment project
 
-→ **E-Commerce on AWS** — Cloud deployment project
+→ **Smart Helmet** — An award-winning IoT project
 
-→ **Smart Helmet** — Award-winning IoT project
+I learn by building, breaking things, figuring out why they broke,
+and then trying to build them better.
 
-I learn by building, breaking things, figuring out why they broke, and trying again.
-
-**Fun fact:** most of my projects start with curiosity and questionable amounts of time. 😄
+**Fun fact:** Most of my projects start with curiosity, a random idea,
+and a questionable amount of time. 😄
