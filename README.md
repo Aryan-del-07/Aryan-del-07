@@ -75,3 +75,4 @@ This matters to me because I'm specifically interested in **AI engineering** —
 
 - **GitHub** — [Aryan-del-07](https://github.com/Aryan-del-07)
 - **LinkedIn** — [Aryan Sahoo](https://linkedin.com/in/)
+- **HackerRank** — [aryansahoo777](https://www.hackerrank.com/profile/aryansahoo777)
