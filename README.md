@@ -1,13 +1,13 @@
 # Hi, I'm Aryan 👋
 
-CS Engineering student at VIT who enjoys turning ideas into working software. I'm interested in building AI-powered applications, full-stack systems, and cloud infrastructure.
+CS Engineering student at VIT who enjoys turning ideas into working software. I'm interested in building AI powered applications, full stack systems, and cloud infrastructure.
 
 ---
 
 ## What I Build
 
-- AI-powered applications using LLMs and APIs
-- Full-stack web applications and REST APIs
+- AI powered applications using LLMs and APIs
+- Full stack web applications and REST APIs
 - Cloud deployments and scalable infrastructure
 
 ---
